@@ -1,0 +1,4 @@
+[
+	{ "keys": ["command+m"], "command": "markdown_preview", "args": {"target": "browser"} },
+	{ "keys": ["shift+enter"], "command": "insert_snippet", "args": {"contents": "  \n"}}
+]

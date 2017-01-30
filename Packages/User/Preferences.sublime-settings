@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"arduino-cli",
+		"Emmet",
+		"Markdown",
+		"OmniMarkupPreviewer",
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"preview_on_click": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

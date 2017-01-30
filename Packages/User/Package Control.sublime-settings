@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"arduino-cli",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"Codecs33",
+		"Color Highlighter",
+		"Comment-Snippets",
+		"ConvertToUTF8",
+		"CSS Snippets",
+		"Emmet",
+		"Evernote",
+		"GitGutter",
+		"Google Search",
+		"Goto-CSS-Declaration",
+		"HTML5",
+		"Japanize",
+		"jQuery",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Material Theme",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PHP Syntax Checker",
+		"SFTP",
+		"SublimeLinter",
+		"Table Editor",
+		"Tag",
+		"Theme - Nil",
+		"TodoReview",
+		"TrailingSpaces",
+		"Vue Syntax Highlight"
+	]
+}
